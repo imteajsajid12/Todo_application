@@ -163,3 +163,9 @@ class TodoController extends Controller
 ## Route
 
 ### web.php 
+
+
+## URL
+ ```php
+ http://localhost/todo
+ ```
